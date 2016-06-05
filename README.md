@@ -1,2 +1,3 @@
 # go-xen-rest-api
-Golang Xen Restful API
+## About
+This is a Golang Xen Restful API for Project Xen - to create, modify and destroy virtual machines.
